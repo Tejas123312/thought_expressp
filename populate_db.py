@@ -21,34 +21,25 @@ USERS = [
         # No image for now, uses default
     },
     {
-        "username": "DefaultDude",
-        "email": "TestEmail2@test.com",
-        "password": "TestPassword2!",
+        "username": "AliceDev",
+        "email": "alice@test.com",
+        "password": "TestPassword1!",
         # No image - uses default
     },
     {
-        "username": "WillowTheCat",
-        "email": "TestEmail3@test.com",
-        "password": "TestPassword3!",
-        "image": "willow.png",
+        "username": "BobCoder",
+        "email": "bob@test.com",
+        "password": "TestPassword1!",
     },
     {
-        "username": "FarmDogs",
-        "email": "TestEmail4@test.com",
-        "password": "TestPassword4!",
-        "image": "farmdogs.png",
+        "username": "CharlieData",
+        "email": "charlie@test.com",
+        "password": "TestPassword1!",
     },
     {
-        "username": "PoppyTheCoder",
-        "email": "TestEmail5@test.com",
-        "password": "TestPassword5!",
-        "image": "poppy.png",
-    },
-    {
-        "username": "GoodBoyBronx",
-        "email": "TestEmail6@test.com",
-        "password": "TestPassword6!",
-        "image": "bronx.png",
+        "username": "DianaML",
+        "email": "diana@test.com",
+        "password": "TestPassword1!",
     },
 ]
 
@@ -229,8 +220,8 @@ POSTS = [
 
 # The 44th post - always the oldest (easter egg for pagination)
 POST_44 = {
-    "title": "Fun Fact: My High School Football Number Was #44",
-    "content": "If you've paginated all the way to this post, the 44th one... you get to learn this fun fact: that my high school football number was #44. Other notable absolute legends who wore number #44 include: Jerry West (NBA - Also fellow WV Native), Hank Aaron (MLB), and Floyd Little (NFL).",
+    "title": "Welcome to Thought Expresso",
+    "content": "If you've paginated all the way to this post, congratulations! This is the very first post on Thought Expresso. We're excited to see what amazing content our users will bring to the platform.",
 }
 
 
