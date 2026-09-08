@@ -16,4 +16,3 @@ A fully functional, asynchronous Thought Expresso blog application featuring use
 4. Run migrations using Alembic.
 5. Start the server using Uvicorn.
 
-Created by Tejas.
